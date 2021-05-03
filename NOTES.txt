@@ -1,2 +1,15 @@
 INFO ABOUT THE DATASET
 	- No null values
+	
+
+INFO ABOUT DATA
+	- id
+		- No data that matters. Perfectly uniform, because it is a primary key (so each of them
+		is perfectly unique)
+	- Customer Calls
+		- There seems to be a normal distribution
+		- Customers tend to call 4 or less times
+		- 4 calls make almost half the dataset
+		
+	- Customer Rating
+		- There seems to be no prevalent information in a lone histogram. Uniform distribution.
