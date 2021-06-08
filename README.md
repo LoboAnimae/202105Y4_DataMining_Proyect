@@ -1,2 +1,2 @@
-# 202105Y4_DataMining_Proyect
+# Data Mining Project
 Proyect for Data Mining
